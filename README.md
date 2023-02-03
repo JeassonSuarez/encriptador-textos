@@ -57,11 +57,9 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ## Autor ✒️
 **Jeasson Alfonso Suárez Sánchez**
 
-* [micorreo@midominio.com](hola)
-* [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-* [Behance](https://www.behance.net/tu-url-de-behance)
-* [Dribble](https://www.dribble.com/tu-url-de-dribble)
-* [Porfolio web](https://tu-dominio.com/)
+* [Correo](jeassondev@gmail.com)
+* [LinkedIn](www.linkedin.com/in/jeassonsuarez)
+<!-- * [Porfolio web](https://tu-dominio.com/) -->
 
 ## Instalación 
 Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
