@@ -2,8 +2,7 @@
 ![Imagen del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/Portada.png?raw=true)
 
 ## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
-- [URL-de-la-api](URL-de-la-api)
+- [https://jeassonsuarez.github.io/encriptador-textos/](URL-de-github-pages-de-este-proyecto)
 
 ## Descripción 📑
 
