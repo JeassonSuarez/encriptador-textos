@@ -49,14 +49,15 @@ Con este proyecto, he aprendido un poco mas de metodos de JavaScrip, especificam
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/Portada.png?raw=true)
+![Captura del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/desencriptado.png?raw=true)
+![Captura del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/encriptado.png?raw=true)
+![Captura del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/mobile.png?raw=true)
 
 ## Autor ✒️
-**TU NOMBRE**
+**Jeasson Alfonso Suárez Sánchez**
 
-* [micorreo@midominio.com](micorreo@midominio.com)
+* [micorreo@midominio.com](hola)
 * [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
 * [Behance](https://www.behance.net/tu-url-de-behance)
 * [Dribble](https://www.dribble.com/tu-url-de-dribble)
