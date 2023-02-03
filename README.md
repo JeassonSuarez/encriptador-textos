@@ -57,7 +57,7 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ## Autor ✒️
 **Jeasson Alfonso Suárez Sánchez**
 
-* [Correo](jeassondev@gmail.com)
+* [jeassondev@gmail.com](jeassondev@gmail.com)
 * [LinkedIn](www.linkedin.com/in/jeassonsuarez)
 <!-- * [Porfolio web](https://tu-dominio.com/) -->
 
