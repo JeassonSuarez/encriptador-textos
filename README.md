@@ -1,5 +1,5 @@
 # Portafolio Jeasson
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://github.com/JeassonSuarez/encriptador-textos/blob/main/imagenes/Portada.png?raw=true)
 
 ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
