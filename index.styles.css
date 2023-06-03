@@ -1,0 +1,257 @@
+:root{
+    --blue:#0A3871;
+    --background:#E5E5E5;
+    --desencriptar-color:#D8DFE8;
+    --color-principal:#ffffff;
+    --color-adv:#495057;
+    --margin:10px;
+    --border-radius:10px;
+}
+
+body{
+    background-color: #E5E5E5;
+    color: black;
+    display: flex;
+    justify-content: right;
+    
+}
+
+.main{
+    width: 90vw;
+    display: flex;
+    align-self: flex-end;
+    padding: 25px;
+    /* justify-content: right; */
+    /* align-items: center; */
+}
+
+.logo-alura{
+    width: fit-content;
+    position: fixed;
+    top: var(--margin);
+    left: var(--margin);
+}
+
+.main-form{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    padding: 25px;
+    gap: 15px;
+    width: 70%;
+}
+
+.main-div-resultado{
+    /* min-width: 30%;
+    max-width: 30%; */
+    /* height: 95%; */  
+    background-color: var(--color-principal);
+    color: var(--color-adv);
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 25px;
+    gap: 52px;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 1.17em;
+    text-align: center;
+}
+
+.form-div-input{
+    width: 100%;
+    height: 77%;
+}
+
+.form-div-adv{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    gap: .5rem;
+    color:var(--color-adv);
+    font-size: .75em;
+}
+
+.form-div-adv>*{
+    display: inline-block;
+}
+
+.form-div-btns{
+    width: 100%;
+    height: 4.1875rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div-btn{
+    display: inline-block;
+    height: 4.1875rem;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    width: 49%;
+}
+
+.btn-encriptar{
+    color: var(--color-principal);
+    background-color: var(--blue);
+}
+
+.btn-desencriptar{
+    color: var(--blue);
+    background-color: var(--desencriptar-color);
+    border: 1px solid var(--blue);
+}
+
+.resultado-div-btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-copiar{
+    background-color: var(--color-principal);
+    color: var(--blue);
+    border: 1px solid var(--blue);
+    width: 90%;
+}
+
+.form-input-texto{
+    color: var(--blue);
+    width: 100%;
+    height: 100%;
+    display: block;
+    white-space: pre-wrap;
+    padding: 20px;
+}
+
+.form-input-texto::placeholder{
+    color: var(--blue);
+}
+
+.resultado-p{
+    text-align: center;
+}
+
+.resultado-div-texto-res{
+    width: 100%;
+    height: 73%;
+}
+
+.con-resultado{
+    display: none;
+}
+
+.sin-resultado{
+    justify-content: center;
+    gap: 25px;
+}
+
+svg{
+    height: fit-content;
+}
+
+.texto-res-p{
+    height: 100%;
+    display: block;
+    width: 100%;
+    overflow: scroll;
+    padding: 20px;
+}
+
+
+@media screen and (max-width: 767px) {
+    /* Estilos para pantallas móviles */
+    .main {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 25px;
+        min-height: 100vh;
+    }
+
+    .main-form{
+        width: 100%;
+        padding: 0;
+    }
+    .resultado-svg{
+        display: none;
+    }
+    .form-div-btns{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 25px;
+        height: fit-content;
+    }
+    
+    .div-btn{
+        width: 100%;
+        height: 4.1875rem;
+    }
+    .form-div-input{
+        margin-top: 80px;
+    }
+
+    /* .main-div-resultado{
+        height: 20%;
+    } */
+}
+  
+@media (min-width: 768px) and (max-width: 1023px) {
+    /* Estilos para pantallas de tableta */
+    .main{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 25px;
+        min-height: 100vh;
+
+    }
+
+    .main-form{
+        width: 100%;
+        padding: 0;
+        height: 70vh;
+
+    }
+    .resultado-svg{
+        display: none;
+    }
+    .form-div-btns{
+        width: 100%;
+    }
+
+    .form-div-input{
+        margin-top: 80px;
+    }
+
+    /* .main-div-resultado{
+        height: fit-content;
+    } */
+}
+
+@media (min-width: 1024px){
+    /* Estilos para pantallas de ordenador */
+    .main{
+        width: 95%;
+        height: 100vh;
+    }
+
+    .main-div-resultado{
+        min-width: 30%;
+        max-width: 30%;
+    }
+}
+  
+input{
+    display: block;
+    width: 100px;
+    height: 400px;
+    word-wrap: break-word;
+    margin: 10px;
+}
